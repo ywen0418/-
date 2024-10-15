@@ -5,7 +5,7 @@
 - newslist.txt 包含檔案id/網址/新聞來源/新聞標題
 - 新聞檔案(id.txt) 包含斷詞後的新聞內容
 
-##使用方式
+## 使用方式
 ###  建立虛擬環境使用python3.9
 
 `conda create -n news python=3.9`
